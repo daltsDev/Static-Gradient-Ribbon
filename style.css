@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.ribbon {
+  width: auto;
+  height: 1rem;
+  padding: 0px;
+  margin: 0px;
+  background: linear-gradient(90deg, #a85e6c, #a85e6c, #e37f52, #e37f52, #ef9f48, #ef9f48, #9cb641,
+   #9cb641, #009484, #009484, #21acb8, #21acb8, #1972dd, #1972dd,
+    #8fa0ae, #8fa0ae); 
+
+}
